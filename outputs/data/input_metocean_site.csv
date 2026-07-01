@@ -1,0 +1,12 @@
+Parameter,Value
+water_depth,1500.0
+seawater_density,1025.0
+kinematic_viscosity,1.05e-06
+current_1yr,1.05
+current_10yr,1.35
+current_100yr,1.62
+current_shear_exp,0.14
+Hs_operational,2.5
+Tp_operational,9.5
+Hs_100yr,6.8
+Tp_100yr,14.5

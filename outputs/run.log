@@ -1,0 +1,22 @@
+[0] setup / input data
+[1] baseline solution
+    Lyapunov spectrum (baseline)
+    fatigue (rainflow + DNV + Basquin)
+[4] parametric studies
+    bifurcation vs VIV coupling
+    parameter sensitivity (stress severity + LLE)
+    stability map (stress severity over coupling x damping)
+    critical flow velocity
+    environmental factors (wave & current)
+    material comparison
+    energy dissipation
+    design optimisation (before/after)
+    long-term fatigue
+[5] validation vs published data
+    VIV lock-in amplitude vs Khalak & Williamson
+[6] plotting every CSV
+[7] building case.docx
+
+=== DONE ===
+figures: 33 | csvs: 35
+case.docx -> /home/akosa/3d_chaotic_attractor/case.docx

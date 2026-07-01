@@ -1,0 +1,16 @@
+# --- Excluded per project decision ---
+case.docx
+outputs/case.docx
+rebuild_docx.py
+run_case_study.py
+outputs/figures/equations/
+
+# --- Python build artifacts ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db

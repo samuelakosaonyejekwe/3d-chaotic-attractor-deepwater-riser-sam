@@ -1,0 +1,37 @@
+{
+  "boundedness_maxstate": 47.833860882148386,
+  "solver_steps": 457742,
+  "solver_rejected": 235,
+  "dominant_freq_hz": {
+    "Bending": 0.8055885520819621,
+    "Axial": 1.5536350647294983,
+    "Torsional": 0.23016815773770347
+  },
+  "recurrence_rate": 0.10204545454545455,
+  "lyapunov_spectrum": [
+    0.9151645214406104,
+    0.0012632089212046799,
+    -0.012812191519222154,
+    -0.06400557730199535,
+    -0.27900455157272774,
+    -6.936969590023668,
+    -14.576014816889252
+  ],
+  "largest_lyapunov": 0.9151645214406104,
+  "kaplan_yorke_dim": 5.080814165709202,
+  "correlation_dim": 1.7713496369288735,
+  "fatigue_life_years_DNV": 0.03066531330693945,
+  "continuous_life_years_DNV": 0.004599796996040917,
+  "fatigue_life_years_Basquin": 2759.791166145835,
+  "equivalent_stress_range_MPa": 113.76872834598865,
+  "viv_occurrence_fraction": 0.15,
+  "critical_velocity_mps": 0.5466666666666666,
+  "mean_dissipation_W": 19369.503284227532,
+  "max_dissipation_W": 50801.041953739244,
+  "peak_stress_reduction_pct": 91.7875948747674,
+  "life_improvement_factor": 31176.34540983513,
+  "optimised_design_life_years": 971.393657597867,
+  "longterm_life_years": 0.004586822740048026,
+  "longterm_cycles_block": 992.5,
+  "viv_peak_AD": 0.9787213952781378
+}

@@ -1,0 +1,8 @@
+Initial condition,Value
+xi(0)  transverse displ. / D,0.5
+eta(0) transverse velocity,0.0
+q(0)   wake variable,2.0
+p(0)   wake velocity,0.0
+w(0)   convective mode,1.0
+s(0)   convective mode,1.0
+g(0)   convective mode,1.0

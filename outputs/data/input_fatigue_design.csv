@@ -1,0 +1,17 @@
+Fatigue / design input,Value
+S-N detail class (DNV-RP-C203),F1_seawater
+log10 a1 / m1 (N <= knee),11.222 / 3.0
+log10 a2 / m2 (N > knee),14.832 / 5.0
+Knee cycles N_knee,1e+07
+Reference thickness t_ref (mm),25.0
+Thickness exponent k,0.25
+Wall thickness t (mm),20.6
+Thickness correction factor,1.000
+Stress concentration factor SCF,1.15
+Design fatigue factor DFF,10
+VIV occurrence fraction p_viv,0.15
+Target service life (years),20
+Allowable annual fatigue damage,0.005
+Basquin sigma_f' (MPa) / b [steel],780 / -0.11
+Seawater density (kg/m3),1025
+Kinematic viscosity (m2/s),1.05e-06

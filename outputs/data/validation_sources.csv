@@ -1,0 +1,7 @@
+id,cite,url,data
+Sprott-Lorenz,"J. C. Sprott, 'Lyapunov Exponent and Dimension of the Lorenz Attractor', University of Wisconsin-Madison.",https://sprott.physics.wisc.edu/chaos/lorenzle.htm,"lambda = (0.906, 0, -14.572); Kaplan-Yorke dimension = 2.062"
+Wolf-1985,"A. Wolf, J. B. Swift, H. L. Swinney, J. A. Vastano, 'Determining Lyapunov exponents from a time series', Physica D 16 (1985) 285-317.",https://doi.org/10.1016/0167-2789(85)90011-9,Benettin/QR algorithm; Lorenz largest exponent ~0.906 bit/s
+KhalakWilliamson-1999,"A. Khalak & C. H. K. Williamson, 'Motions, forces and mode transitions in vortex-induced vibrations at low mass-damping', J. Fluids & Structures 13 (1999) 813-851.",https://doi.org/10.1006/jfls.1999.0236,"peak cross-flow amplitude A/D ~ 1.0 (upper branch), three-branch response, low mass-damping"
+Facchinetti-2004,"M. L. Facchinetti, E. de Langre, F. Biolley, 'Coupling of structure and wake oscillators in vortex-induced vibrations', J. Fluids & Structures 19 (2004) 123-140.",https://doi.org/10.1016/j.jfluidstructs.2003.12.004,"acceleration-coupled van der Pol wake oscillator; eps=0.3, A=12"
+DNV-RP-C203,"DNV-RP-C203, 'Fatigue design of offshore steel structures', Det Norske Veritas.",https://www.dnv.com,"two-slope S-N curves (seawater w/ CP and in-air), thickness correction, Palmgren-Miner accumulation"
+Lorenz-1963,"E. N. Lorenz, 'Deterministic Nonperiodic Flow', J. Atmospheric Sciences 20 (1963) 130-141.",https://doi.org/10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2,low-order convective triad; physical basis of the near-wake core

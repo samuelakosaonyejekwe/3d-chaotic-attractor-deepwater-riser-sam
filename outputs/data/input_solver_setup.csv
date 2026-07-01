@@ -1,0 +1,13 @@
+Solver control,Setting
+Integrator,"Runge-Kutta-Fehlberg 4(5), adaptive PI control"
+Cross-check integrator,Dormand-Prince 5(4)
+Relative tolerance,1e-8
+Absolute tolerance,1e-10
+Output sample step (reduced),0.02
+Reduced-time span (baseline),0 - 3000
+State dimension,7
+Reduced-time scaling,tau = 2*pi*St*U/D * t (VIV lock-in)
+Lyapunov method,"Benettin/QR of variational flow (RK4, analytic Jacobian)"
+Rainflow,ASTM E1049-85 (+ rainflow library cross-check)
+Fatigue accumulation,Palmgren-Miner
+S-N basis,DNV-RP-C203 (two-slope) + Basquin comparison

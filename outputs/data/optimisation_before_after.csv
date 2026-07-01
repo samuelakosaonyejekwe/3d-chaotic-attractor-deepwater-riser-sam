@@ -1,0 +1,3 @@
+Scenario,Peak_bending_MPa,Design_life_years
+Baseline (bare riser),60.34484287033353,0.031158034876384955
+Optimised (fairings+damping),4.95576296869684,971.393657597867
