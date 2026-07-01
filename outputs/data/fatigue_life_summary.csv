@@ -1,4 +1,4 @@
-Method,Life_years,Damage_per_block,Eq_range_MPa,Cycles_per_block
-DNV-RP-C203 (continuous lock-in),0.004599796996040917,0.00467662074709721,113.76872834598865,529.5
-"DNV-RP-C203 (design, 15% occurrence)",0.03066531330693945,0.0007014931120645814,113.76872834598865,529.5
-Basquin (design),2759.791166145835,7.79461371135632e-09,113.76872834598865,529.5
+Method,Detail,Eq_range_MPa,Cycles_per_block,Damage_per_block,Predicted_life_years,Required_life_years,Status
+"DNV-RP-C203 (continuous lock-in, worst case)","F1_seawater girth weld, seawater w/ CP",113.8,529.5,0.004677,0.0046,200.0,FAIL - VIV mitigation required
+"DNV-RP-C203 (design, 15% VIV occurrence)","F1_seawater girth weld, seawater w/ CP",113.8,529.5,0.0007015,0.03067,200.0,FAIL - VIV mitigation required
+"Basquin (parent metal, reference only)","smooth base metal - non-welded, non-governing",113.8,529.5,7.795e-09,2760.0,,Reference only - non-governing detail
