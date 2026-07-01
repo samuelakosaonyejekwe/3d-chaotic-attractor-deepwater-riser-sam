@@ -5,7 +5,7 @@
 A novel, universal Python solver for nonlinear / chaotic dynamical systems, paired
 with a standards-based engineering post-processing and fatigue suite. It was
 developed for a deepwater marine-riser **vortex-induced vibration (VIV) fatigue**
-case study by **A. S. Onyejekwe**.
+case study by **Akosa Samuel Onyejekwe**.
 
 ---
 
@@ -132,7 +132,7 @@ from chronos.diagnostics import lyapunov_spectrum
 
 ## Author
 
-**A. S. Onyejekwe** (Akosa Samuel Onyejekwe)
+**Akosa Samuel Onyejekwe**
 
 ---
 
